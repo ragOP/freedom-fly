@@ -1,0 +1,15 @@
+{
+    "rewrites": [
+      {
+        "source": "/spandeb-serg1",
+        "destination": "/index1.html"
+    
+      },
+     
+      {
+        "source": "/",
+        "destination": "/index.html"
+       
+      }
+    ]
+   }
